@@ -5,3 +5,5 @@ K
 contracts/genomic-data.clar,0/a/0a2805c3f4033331ef6aef0d20177107b44ee0a4
 J
 tests/genomic-data.test.ts,b/5/b5d7a7565b67d161c57b9570d5b660a43971f48d
+O
+contracts/outcome-tracking.clar,5/5/5585fcc6b179ad4c0e8cd6ed798f933138aaae21
